@@ -78,11 +78,9 @@ Organizations adopt standards to improve security and demonstrate compliance.
 | **ISO/IEC 27001** | Information Security Management System (ISMS). |
 | **ISO/IEC 27002** | Best practices for implementing security controls. |
 | **NIST Cybersecurity Framework (CSF)** | Risk-based cybersecurity framework. |
-| **NIST SP 800-53** | Security and privacy controls for information systems. |
 | **SOC 2** | Security controls for service organizations. |
 | **PCI DSS** | Protects payment card information. |
 | **CIS Controls** | Prioritized cybersecurity best practices. |
-| **COBIT** | IT governance and management framework. |
 
 ---
 

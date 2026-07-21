@@ -1,7 +1,5 @@
 # Governance-Riskassessment-Compliance
 
-# Governance, Risk, and Compliance (GRC)
-
 **Governance, Risk, and Compliance (GRC)** is a strategic approach that helps organizations align their business objectives with cybersecurity, manage risks, and comply with laws, regulations, and industry standards.
 
 It ensures that security is not just about technology, but also about **people, processes, policies, and compliance**.
